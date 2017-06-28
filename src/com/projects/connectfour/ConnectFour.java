@@ -160,7 +160,6 @@ public class ConnectFour
                 Will check diagonals
                 going [SE]-[NW] \\\
                  */
-                //Checking diagonal up-left
                 if (j >= 3 && i >= 3)
                 {
                     for (int k = 0; k < 4; ++k)
